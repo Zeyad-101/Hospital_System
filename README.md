@@ -19,7 +19,15 @@ When you open the app, you land on a dashboard that gives you the key numbers at
 **Doctors Schedule** — Weekly calendar view of doctor assignments per clinic. Doctors can be added or removed from the schedule directly from this screen.
 
 ---
+## Screenshots
 
+![Dashboard](screenshots/dashboard.png)
+![Appointments](screenshots/appointments.png)
+![Patients](screenshots/patients.png)
+![Financial](screenshots/financial.png)
+![Schedule](screenshots/schedule.png)
+
+---
 ## User Roles
 
 The system supports three roles:
@@ -164,4 +172,4 @@ The UI was prototyped in Figma before implementation:
 
 ---
 
-*Data Structures course project — Egyptian Chinese University, Faculty of Computer Science.*
+*Data Structures course project — Egyptian Chinese University, Faculty of Software Engineering.*
