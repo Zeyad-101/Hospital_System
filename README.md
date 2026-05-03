@@ -137,7 +137,7 @@ MR-001,P-101,2026-04-09,ENT,Ear Infection,1001
 ## Team
 
 | Name | ID | GitHub |
-|---|---|---|---|
+|---|---|---|
 | Zeyad Waleed Amin | 192400694 | [@Zeyad-101](https://github.com/Zeyad-101) 
 | Mai Ahmed Khalaf | 192400685 | [@MaiKhalaf](https://github.com/MaiKhalaf) 
 | Adam Tamer Ghobashy | 192400667 | [@Adam-Ghobashy](https://github.com/Adam-Ghobashy) 
