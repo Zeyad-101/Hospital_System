@@ -21,7 +21,7 @@ When you open the app, you land on a dashboard that gives you the key numbers at
 ---
 ## Screenshots
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 ![Appointments](screenshots/appointments.png)
 ![Patients](screenshots/patients.png)
 ![Financial](screenshots/financial.png)
