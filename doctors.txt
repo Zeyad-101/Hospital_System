@@ -1,0 +1,8 @@
+1001,Dr. Samy Abdullah,ENT
+1002,Dr. Nagwa Alaa,ENT
+1003,Dr. Nour Hesham,ENT
+1004,Dr. Nelly Maged,Dermatology
+1005,Dr. Natallie Mina,Dermatology
+1006,Dr. Louay Salah,Dermatology
+1007,Dr. Sherif Mahmoud,Cardiology
+1008,Dr. Hossam Yasser,Cardiology
